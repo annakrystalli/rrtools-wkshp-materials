@@ -1,4 +1,3 @@
-knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE, dev="cairo_pdf", fig.width=7, fig.height=3.5, cache = TRUE)
 library(dplyr)
 library(readr)
 library(ggplot2)
