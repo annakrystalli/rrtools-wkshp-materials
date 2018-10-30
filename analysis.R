@@ -11,7 +11,9 @@ data <- read_csv(here::here("gillespie.csv"), col_types = "cdiddd")
 
 # recode-data
 data <- data %>% 
-  mutate(system_size = recode(system_size, large = "A. 1000 total sites", small= "B. 100 total sites")) 
+  mutate(system_size = recode(system_size, 
+                              large = "A. 1000 total sites", 
+                              small = "B. 100 total sites")) 
 
 # plot-gillespie
 data %>%
