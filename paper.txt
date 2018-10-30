@@ -106,28 +106,9 @@ project CA-B-INS-0162-H.
 
 # References
 
+---
 
-Bartlett, M.S. (1960). Stochastic population models in ecology and epidemiology. Methuen; Wiley, London.
 
-Bjørnstad, O.N. & Grenfell, B.T. (2001). Noisy clockwork: time series analysis of population fluctuations in animals. Science (New York, N.Y.), 293, 638–43.
-
-Black, A.J. & McKane, A.J. (2012). Stochastic formulation of ecological models and their applications. Trends in ecology & evolution, 1–9.
-
-Boettiger, C., Dushoff, J. & Weitz, J.S. (2010). Fluctuation domains in adaptive evolution. Theoretical Population Biology, 77, 6–13.
-
-Coulson, T. (2001). Age, Sex, Density, Winter Weather, and Population Crashes in Soay Sheep. Science, 292, 1528–1531.
-
-Coulson, T., Rohani, P. & Pascual, M. (2004). Skeletons, noise and population growth: The end of an old debate? Trends in Ecology and Evolution, 19, 359–364.
-
-Gillespie, D. (1977). Exact stochastic simulation of coupled chemical reactions. Journal of Physical Chemistry, 81.25, 2340–2361.
-
-Kampen, N. van. (2007). Stochastic processes in physics and chemistry. third. North-Holland Publishing Company, Amsterdam, New York, Oxford.
-
-Knape, J. & de Valpine, P. (2011). Are patterns of density dependence in the Global Population Dynamics Database driven by uncertainty about population abundance? Ecology Letters, 15, 17–23.
-
-Kurtz, T.G. (1978). Strong approximation theorems for density dependent Markov chains. Stochastic Processes and their Applications, 6, 223–240.
-Levins, R. (1966). The strategy of model building in population biology. American Scientist, 54, 421–431. Levins, R. (1969). Some demographic and genetic consequences of environmental heterogeneity for biological
-control. Bulletin of the Entomological Society of America, 15, 237–240.
 
 
 # Figure 1: Population dynamics from a Gillespie simulation of the Levins model with large (N=1000, panel A) and small (N=100, panel B) number of sites (blue) show relatively weaker effects of demographic noise in the bigger system. Models are otherwise identical, with e = 0.2 and c = 1 (code in appendix A). Theoretical predictions for mean and plus/minus one standard deviation shown in horizontal re dashed lines.
